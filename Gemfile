@@ -35,7 +35,7 @@ gem "kaminari"
 
 gem "local_time"
 
-gem "octicons_helper", "~> 2.1"
+gem "octicons_helper", "~> 4.0"
 gem "octokit"
 gem "omniauth"
 gem "omniauth-github"
